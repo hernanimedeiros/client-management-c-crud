@@ -1,2 +1,2 @@
-# Client Management System build in C (CRUD like)
-*Build and run*
+# client-management-c-crud
+*A project for client management written in C (console)- Learning the fundamentals of the game*
